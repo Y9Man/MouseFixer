@@ -12,7 +12,7 @@ Features
 - Configurable settings
 
 Download
-MouseFixer/tree/main
+[MouseFixer/tree/main](https://github.com/Y9Man/MouseFixer)
 
 Build from Source
 Requires Visual Studio 2022
