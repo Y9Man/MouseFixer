@@ -12,7 +12,7 @@ Features
 - Configurable settings
 
 Download
-
+MouseFixer/tree/main
 
 Build from Source
 Requires Visual Studio 2022
